@@ -1,0 +1,103 @@
+{
+  "posts": {
+    "created": "Post created",
+    "error": "Failed to create post",
+    "edit": "Edit",
+    "delete": "Delete",
+    "updated": "Post updated",
+    "like_error": "Failed to like post",
+    "empty": "No posts yet",
+    "view_limit_reached": "You have reached the daily view limit",
+    "form": {
+      "placeholder": "Write your thoughts...",
+      "submit": "Create Post",
+      "submit_edit": "Save",
+      "cancel": "Cancel"
+    }
+  },
+  "comments": {
+    "empty": "No comments yet",
+    "error": "Failed to load comments",
+    "created": "Comment added",
+    "placeholder": "Write your thoughts...",
+    "submit": "Post Comment",
+    "header": "Comments",
+    "reply": "Reply",
+    "submit_reply": "Send Reply",
+    "reply_placeholder": "Write your reply...",
+    "like_error": "Failed to like comment",
+    "sort": {
+      "popular": "Most popular",
+      "newest": "Newest first",
+      "oldest": "Oldest first"
+    },
+    "load_more": "Load more"
+  },
+  "header": {
+    "logo": "Moonlight Media",
+    "home": "Home",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+    "language": "Language",
+    "welcome": "Welcome",
+    "currency": "₽"
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "username": "Username",
+    "password": "Password",
+    "rememberMe": "Remember me",
+    "submit": "Login",
+    "success": "Login successful",
+    "error": "Login failed"
+  },
+  "register": {
+    "title": "Register",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "agree": "I agree to the",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "submit": "Register",
+    "has_account": "Already have an account?",
+    "success": "Registration successful",
+    "success_message": "Please check your email to activate your account.",
+    "error": "Registration failed",
+    "error_message": "Please try again.",
+    "errors": {
+      "username": "Username is required",
+      "email": "Email is required",
+      "password": "Password is required",
+      "re_password": "Passwords do not match",
+      "agree": "You must agree to the terms"
+    }
+  },
+  "profile": {
+    "loading": "Loading...",
+    "balance": "Balance",
+    "noBio": "No bio yet",
+    "details": "Profile Details",
+    "rating": "Rating",
+    "totalSales": "Total Sales",
+    "createdAt": "Joined",
+    "telegram": "Telegram",
+    "tabs": {
+      "posts": "Posts",
+      "showcase": "Showcase",
+      "reviews": "Reviews",
+      "settings": "Settings"
+    }
+  },
+  "footer": {
+    "copyright": "Moonlight Media. All rights reserved.",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "contact": "Contact"
+  },
+  "loader": { "loading": "Loading..." }
+}
